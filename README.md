@@ -1,0 +1,5 @@
+- 👋 Hi,I’m @krezzia!
+- 👀 I’m a rising junior @ UCLA studying Communications with a Computer Science specialization,
+- 🌱 I’m currently learning C++ and how it can be applied socially,
+- 💞️ I’m looking to become more familiar with C++ as a language,
+- 📫 How to reach me: krezziabasilio@ucla.edu
