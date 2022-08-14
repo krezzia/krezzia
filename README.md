@@ -1,5 +1,5 @@
-- 👋 Hi,I’m @krezzia!
+- 👋 Hi, I’m @krezzia!
 - 👀 I’m a rising junior @ UCLA studying Communications with a Computer Science specialization,
 - 🌱 I’m currently learning C++ and how it can be applied socially,
-- 💞️ I’m looking to become more familiar with C++ as a language,
-- 📫 How to reach me: krezziabasilio@ucla.edu
+- 💞️ I’m looking to become more familiar with C++ as a language! Addtionally how understanding code can help me communicate with Product Managers, UX Designers, and overall within product! 
+- 📫 How to reach me: krezziabasilio@ucla.edu, I'd love to learn tips on how CS can assist aspiring Product Marketing Managers (like myself!) in the tech space. 
